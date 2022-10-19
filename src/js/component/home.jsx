@@ -1,4 +1,6 @@
+//import react into the bundle
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";

@@ -12,14 +12,12 @@ import CardComponent from "./cardComponent.jsx";
 // create your first component
 const Home = () => {
 	return (
-	<div>
+	<div class="container">
 		<Header/>
 		<Middle/>
 		<CardComponent/>
 		<Footer/> 
-
 	</div>
-
 	);
 };
 

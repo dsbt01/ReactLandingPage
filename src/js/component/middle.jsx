@@ -1,5 +1,8 @@
-const Middle = (props) => {
-    return <h1>Middle</h1>
+import React from "react";
+
+
+const Middle = () => {
+    return <h1>Middle Code</h1>
 } ;
 
 export default Middle;

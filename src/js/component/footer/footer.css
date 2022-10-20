@@ -1,0 +1,15 @@
+.footer-style {
+  background-color: black;
+  height: 50px;
+}
+
+.span-style {
+  color: white;
+  text-align: center;
+}
+
+.verticalCenter{
+    flex: 1;
+    justify-content: center;
+    line-height: 50px; 
+  }

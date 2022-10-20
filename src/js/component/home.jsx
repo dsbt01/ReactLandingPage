@@ -7,7 +7,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 
 
 import Header from "./header.jsx";
-import Footer from "./footer.jsx";
+import Footer from "./footer/footer.jsx";
 import Middle from "./middle.jsx";
 import CardComponent from "./cardComponent.jsx";
 

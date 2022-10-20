@@ -14,7 +14,7 @@ import CardComponent from "./cardComponent.jsx";
 // create your first component
 const Home = () => {
 	return (
-	<div className="container">
+	<div>
 		<Header/>
 		<Middle/>
 		<CardComponent/>

@@ -5,8 +5,11 @@ import SingleCardComponent from "./singleCardComponent.jsx";
 
 const CardComponent = () => {
   return (
-    <div className="row mt-3">
+    <div className="row m-3">
       <SingleCardComponent text="card1" />
+      <SingleCardComponent text="card2" />
+      <SingleCardComponent text="card3" />
+      <SingleCardComponent text="card4" />
     </div>
   );
 };
